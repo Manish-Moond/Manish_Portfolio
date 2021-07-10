@@ -6,4 +6,4 @@ Data Science Portfolio
 + Done Preprocessing on Dataset and removing nan and categorical values.
 + Using RFE finds the best parameter.
 + Optimized RandomForrestRegressor and XGBoost using GridSearchCV to reach the best model.
-![alt text](https://github.com/Manish-git-135/Manish_Portfolio/blob/main/Screenshot%202021-07-11%20005133.png)
+![](https://github.com/Manish-git-135/Manish_Portfolio/blob/main/image/RandomForestResult.png)
