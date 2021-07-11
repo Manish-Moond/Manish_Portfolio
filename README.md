@@ -7,4 +7,4 @@ Data Science Portfolio
 + Using RFE finds the best parameter.
 + Optimized RandomForrestRegressor and XGBoost using GridSearchCV to reach the best model.
 ![](image/RandomForestResult.png)
-[Google Colab Link](https://colab.research.google.com/drive/1NnNS-3DgXhE1QOG90SIjf48rfkeMOFKg#scrollTo=QpLwC8Y-6iZU)
+[Google Colab Link](https://colab.research.google.com/drive/1NnNS-3DgXhE1QOG90SIjf48rfkeMOFKg?usp=sharing)
